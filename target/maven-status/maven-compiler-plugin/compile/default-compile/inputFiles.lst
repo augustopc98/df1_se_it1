@@ -1,0 +1,6 @@
+/home/lotr2024/Tesis/Segundo Semestre/CodigoEntrega1/df1_se_it1/src/main/java/com/example/demo/DemoApplication.java
+/home/lotr2024/Tesis/Segundo Semestre/CodigoEntrega1/df1_se_it1/src/main/java/com/example/demo/controllers/CustomOrderController.java
+/home/lotr2024/Tesis/Segundo Semestre/CodigoEntrega1/df1_se_it1/src/main/java/com/example/demo/services/ICustomOrderService.java
+/home/lotr2024/Tesis/Segundo Semestre/CodigoEntrega1/df1_se_it1/src/main/java/com/example/demo/services/CustomOrderService.java
+/home/lotr2024/Tesis/Segundo Semestre/CodigoEntrega1/df1_se_it1/src/main/java/com/example/demo/repositories/ICustomOrderRepository.java
+/home/lotr2024/Tesis/Segundo Semestre/CodigoEntrega1/df1_se_it1/src/main/java/com/example/demo/entities/CustomOrder.java

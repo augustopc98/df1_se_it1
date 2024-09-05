@@ -1,0 +1,6 @@
+com/example/demo/services/ICustomOrderService.class
+com/example/demo/DemoApplication.class
+com/example/demo/services/CustomOrderService.class
+com/example/demo/entities/CustomOrder.class
+com/example/demo/repositories/ICustomOrderRepository.class
+com/example/demo/controllers/CustomOrderController.class
